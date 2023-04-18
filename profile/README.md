@@ -1,7 +1,7 @@
 Bienvenue chez DevOrion, <br>
 Un groupe de développeurs dévoués qui travaillent sur la création de petits projets informatiques, fournissant aussi une assistance pour les particuliers.<br>
 ➡️ En tant qu'équipe de développeurs, nous sommes engagés à créer des projets innovants qui répondent parfaitement à vos besoins. Nous travaillons en étroite collaboration avec nos clients pour comprendre leurs besoins et créer une solution adaptée.<br>
-➡️ DevOrion offre une gamme complète de services informatiques, allant de la création de petits projets personnalisés à l'assistance informatique complète pour les particulier.
+➡️ DevOrion offre une gamme complète de services informatiques, allant de la création de petits projets personnalisés à l'assistance informatique complète pour les particulier.<br>
 ➡️ Notre objectif est l'excellence, et nous sommes fiers de notre expertise technique mise à votre service !<br>
 
 Maintenant, des éventuelles questions :<br>
